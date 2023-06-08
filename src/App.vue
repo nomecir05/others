@@ -62,8 +62,8 @@
      flex:1 1 auto;
   }
   footer {
-    height: 40px;
-    color: #666;
+    height: 100px;
+    color: #665;
     padding: 10px 0 10px 0;
     font-size: 85%;
   }
