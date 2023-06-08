@@ -51,7 +51,7 @@
 
 <style>
   #reset-store-panel {
-    position: fixed; bottom: 0px; right: 0px;
+    position: fixed; bottom: 1px; right: 1px;
   }
 
   body, .sticky-footer-wrapper {
@@ -63,19 +63,19 @@
   }
   footer {
     height: 100px;
-    color: #665;
+    color: rgb(144, 144, 240);
     padding: 10px 0 10px 0;
-    font-size: 85%;
+    font-size: 90%;
   }
   footer a {
-    color: #999;
+    color: #f19393;
   }
   footer a:hover {
-    color: #efefef;
+    color: #f19393;
   }
   @media (max-width: 576px) {
     footer {
       height: 50px;
     }
   }
-</style>
+</style> 
